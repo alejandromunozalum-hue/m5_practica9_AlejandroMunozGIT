@@ -13,7 +13,6 @@ public class LaCalculadora {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		/** Comentari de explicació per la clase main de calaculadora*/
 		int op1 = 0, op2 = 0;
 		char opcio;
 		int resultat = 0;
