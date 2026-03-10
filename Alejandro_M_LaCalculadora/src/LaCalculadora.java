@@ -13,6 +13,10 @@ public class LaCalculadora {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		/**comentari1 */
+		/**comentari2 */
+		/**comentari3 */
+		/**comentari4 */
 		int op1 = 0, op2 = 0;
 		char opcio;
 		int resultat = 0;
